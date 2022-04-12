@@ -15,7 +15,7 @@
 
 - Integrated the Paypal API with the the revised restaurant chatbot which facilitates the user with an additional method of payment for their Restaurant Bill, Barista Bill and Gift Cards Payment.
 - If the user decides to pay their bill using paypal, the chatbot provides a link to facilitate the transaction which further uses the Paypal Sandbox API to create a purchasing window.
-- Integrated our Dialogflow chatbot with Kommunicate to help our chatbot provide hyperlinks and buttons to the user which was not possible earlier with Dialogflow chatbot interface.
+- Integrated our Dialogflow chatbot with Kommunicate using the authorization service key generated using Google Cloud Platform in a JSON format. Kommunicate helps our chatbot provide hyperlinks and buttons to the user which was not possible earlier with Dialogflow chatbot interface.
 - Using Kommunicate the chatbot delivers the paypal transaction link to the user. The user can use the link to get to the transaction window where they can login to their paypal account(in our case the sandbox account) and make the transaction.
 
 ### 2. **Google Street View Image API**
@@ -28,7 +28,7 @@
 
 - Similar to the Google Street View Image API we integrated the Google Maps and Google Directions API into the GUI which helps the user to locate the restaurant and get directions from their location to the restaurant.
 - When the user asks the chabot for directions the chatbot guides them to the Google Maps hosted in the website.
-- The user can see the location marker of the restaurant and click on the directions which will take them to google maps website and the user can get the directions to the restaurant.
+- The user can see the location marker of the restaurant and click on the directions which will take them to google maps website and the user can get the directions to the restaurant from there.
 
 ## Documentation
 
