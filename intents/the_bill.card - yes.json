@@ -1,0 +1,46 @@
+{
+  "id": "72c06d99-cb56-4887-9f46-b60a05ec17a2",
+  "parentId": "ce71098a-18e2-4b9d-9241-733fbcd927a9",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "name": "the_bill.card - yes",
+  "auto": true,
+  "contexts": [
+    "the_billcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom-2.the_bill-custom.the_billcard-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is your receipt! Thank you for dining with us!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,7 +1,7 @@
 {
-  "id": "96cbd41c-438f-49ea-aded-27ba96caa301",
-  "parentId": "aa98ddfc-9aa4-4cef-beb4-e19a8682f7eb",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "f63b3dac-173b-462b-a7b3-259374e5bc11",
+  "parentId": "3e9da046-7c35-4344-aaf4-21f73b9c98a6",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "dessert - no",
   "auto": true,
   "contexts": [
@@ -22,6 +22,13 @@
           "speech": [
             "Of course. Let us know if you need anything."
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

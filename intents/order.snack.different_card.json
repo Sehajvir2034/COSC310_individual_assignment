@@ -1,0 +1,59 @@
+{
+  "id": "f352615a-49f2-4d26-81cc-286a8486cedb",
+  "parentId": "06731394-3601-49de-98d0-435f5116931c",
+  "rootParentId": "451e0264-c315-4cb7-83c7-2214d56083d9",
+  "name": "order.snack.different_card",
+  "auto": true,
+  "contexts": [
+    "ordersnack-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.snack.different_card",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5ff68be0-7487-448d-b965-4948f935b30e",
+          "name": "card-number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$card-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me the new card number please."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All set. Enjoy your meal!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

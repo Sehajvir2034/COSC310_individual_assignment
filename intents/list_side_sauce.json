@@ -1,7 +1,7 @@
 {
-  "id": "95a044ed-cddc-4187-8daa-285aa8b7df24",
-  "parentId": "6b286f1d-f9ce-4b1a-9680-87e3c2df6dc1",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "9b839fc6-8f4f-4357-8c90-a7c763143589",
+  "parentId": "186529b3-f907-47ca-b1a7-2c2e2e9dd747",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "list_side_sauce",
   "auto": true,
   "contexts": [
@@ -20,8 +20,15 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "We have caesar, italian, spicy soy, and peanut."
+            "We\u0027ve got the Caesar, Italian, Spicy soy, and Peanut."
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

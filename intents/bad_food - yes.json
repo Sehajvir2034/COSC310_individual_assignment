@@ -1,7 +1,7 @@
 {
-  "id": "ca5a74f8-6f03-404a-b41e-a20085e41480",
-  "parentId": "28fa664a-823d-4f54-9fc0-df1e955429b8",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "5f673bf7-5c2b-42e8-bd30-8e08a46d6d91",
+  "parentId": "7cd80069-2672-4951-a1b1-ea004f81f8b9",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "bad_food - yes",
   "auto": true,
   "contexts": [
@@ -22,6 +22,13 @@
           "speech": [
             "Certainly. We\u0027ll get that right out for you."
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

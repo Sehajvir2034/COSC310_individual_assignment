@@ -1,7 +1,7 @@
 {
-  "id": "762a2910-b0d1-4483-a755-7df5ca084e49",
-  "parentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "cbcdbe0f-9b3b-4bd3-89b5-805730a77975",
+  "parentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "tips_tricks",
   "auto": true,
   "contexts": [
@@ -22,6 +22,13 @@
           "speech": [
             "I am chatbot, I speak with you so a real human doesnt have to. why dont you go ahead and say hello to start the simulation"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

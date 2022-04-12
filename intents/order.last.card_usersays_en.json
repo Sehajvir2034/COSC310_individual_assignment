@@ -1,0 +1,119 @@
+[
+  {
+    "id": "a9c19b1b-5a7a-4363-913b-85b7dc0655d2",
+    "data": [
+      {
+        "text": "i want to use my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68fd3a13-696d-4453-af7e-a367a7c695b9",
+    "data": [
+      {
+        "text": "debit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd507997-2452-4af1-a6bd-aa494ca06691",
+    "data": [
+      {
+        "text": "credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d51b902-e889-4f96-903f-c1988daf5fca",
+    "data": [
+      {
+        "text": "debit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bed4daa-cbe8-4da9-b6e4-43483deef5d5",
+    "data": [
+      {
+        "text": "credit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f41acb75-24fa-4f6c-9666-d0b1159f9114",
+    "data": [
+      {
+        "text": "card please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "163f67dc-ef05-4874-b5e9-6261331b7dc1",
+    "data": [
+      {
+        "text": "i\u0027ll use my debit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c413002-8847-41c9-a1ef-e6795a41ecc9",
+    "data": [
+      {
+        "text": "i\u0027ll use my credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d9feb8e-d0e9-4365-bac9-9b18934c16a7",
+    "data": [
+      {
+        "text": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

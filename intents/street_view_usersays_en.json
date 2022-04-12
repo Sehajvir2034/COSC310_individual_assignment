@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1405d240-d13b-4876-9920-aa7c1a5222fc",
+    "data": [
+      {
+        "text": "street view of the restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f06f4d88-7a66-4c12-b33c-e9ae4dc6fad9",
+    "data": [
+      {
+        "text": "can i see the street view of the restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a1602cf-7782-4dab-9a71-9a503aca0cb1",
+    "data": [
+      {
+        "text": "view",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1dbb05ee-8bc0-4a13-8e6e-86ad9edb25b6",
+    "data": [
+      {
+        "text": "street",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1465bbc8-3eb5-4a53-8092-94522e6ec88e",
+    "data": [
+      {
+        "text": "street view",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cafc686e-7a3a-46df-a7a4-9158a17b1bb3",
+    "data": [
+      {
+        "text": "can I have the restaurant street view",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

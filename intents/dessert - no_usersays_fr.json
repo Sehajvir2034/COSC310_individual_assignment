@@ -1,0 +1,119 @@
+[
+  {
+    "id": "f43b8a1c-5eba-49ae-b68c-967caa7eb107",
+    "data": [
+      {
+        "text": "ne le fais pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2cd126f9-878e-4fae-949c-1bb9ffacdd4c",
+    "data": [
+      {
+        "text": "sûrement pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a51779e4-1a6c-43e9-88bd-f4dbcb1351eb",
+    "data": [
+      {
+        "text": "je n\u0027en veux pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "82920f9f-e532-49cb-a392-eb19251da9b8",
+    "data": [
+      {
+        "text": "ça ne m\u0027intéresse pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "bd77e7c5-9f6a-444f-9cfe-351c8e89e0b0",
+    "data": [
+      {
+        "text": "je ne crois pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9c28ca60-a68c-434d-8b5c-dd9f2adae6a3",
+    "data": [
+      {
+        "text": "je ne suis pas d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "eb450b6a-4dae-4bb4-ad89-b7f89436bc44",
+    "data": [
+      {
+        "text": "non merci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "c788d07c-100b-4879-86bd-3b6f4d81cb94",
+    "data": [
+      {
+        "text": "non",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "eb303954-29a8-48a8-b181-45c0b35022e9",
+    "data": [
+      {
+        "text": "pas vraiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

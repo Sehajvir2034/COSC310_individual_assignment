@@ -1,0 +1,106 @@
+[
+  {
+    "id": "670e0b5c-6def-4d0e-a201-50ccce7b86f8",
+    "data": [
+      {
+        "text": "can i paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebdf77db-b683-494a-83aa-41a3cff5d2c0",
+    "data": [
+      {
+        "text": "i want to use paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4766eb9-4ab6-4016-b698-2250ec725855",
+    "data": [
+      {
+        "text": "i\u0027ll use paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef2d8041-014d-487f-a019-dc46d23ef836",
+    "data": [
+      {
+        "text": "i\u0027ll paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a40cc071-c10e-42aa-a1cb-b872738da505",
+    "data": [
+      {
+        "text": "paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84781477-0ce1-4b18-ab57-8c9eaddfdde8",
+    "data": [
+      {
+        "text": "do you accept paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef4a8fcd-479d-40f9-bc45-cee6fb597c62",
+    "data": [
+      {
+        "text": "do you use paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d570967-4b50-45a0-ba44-129514b39b5b",
+    "data": [
+      {
+        "text": "can i use paypal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

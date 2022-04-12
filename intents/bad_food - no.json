@@ -1,7 +1,7 @@
 {
-  "id": "b06f38d3-8774-4d42-9559-d1a7fc2ad12c",
-  "parentId": "28fa664a-823d-4f54-9fc0-df1e955429b8",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "b1caf7ac-7e20-4bb1-93bf-7f9f44d545a2",
+  "parentId": "7cd80069-2672-4951-a1b1-ea004f81f8b9",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "bad_food - no",
   "auto": true,
   "contexts": [
@@ -22,6 +22,13 @@
           "speech": [
             "Sorry about that. Let us know if you need anything else."
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

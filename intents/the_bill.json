@@ -1,7 +1,7 @@
 {
-  "id": "27a4832a-d5e8-435e-b304-a31c9dcfdff5",
-  "parentId": "6befd5ce-5363-44e6-b4ee-e6fa5966c591",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "3c437209-5ce9-481e-a9d3-d7d9e441dc70",
+  "parentId": "be4c9915-6bf2-4b46-b46b-faf7d9637488",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "the_bill",
   "auto": true,
   "contexts": [
@@ -25,7 +25,7 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "I\u0027ll get that right away for you. WIll that be cash or card?"
+            "I\u0027ll get that right away for you. How would you like to pay?"
           ],
           "condition": ""
         }

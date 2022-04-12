@@ -1,0 +1,69 @@
+[
+  {
+    "id": "ee6ce13f-1830-4be4-a52d-4c5326f33c86",
+    "data": [
+      {
+        "text": "i\u0027ll pay with cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "910809e7-1951-4e5e-8025-7f9c726c4cd1",
+    "data": [
+      {
+        "text": "i\u0027ll use cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3926b3b7-b46e-42ca-a8d0-4cd29d0de081",
+    "data": [
+      {
+        "text": "cash please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c959b15e-9a0e-4126-9bba-f58bd783d25b",
+    "data": [
+      {
+        "text": "i\u0027ll be using cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10704b3d-2e88-4c1b-8432-3f4724435d2d",
+    "data": [
+      {
+        "text": "cash",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

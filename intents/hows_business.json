@@ -1,7 +1,7 @@
 {
-  "id": "712f70db-8028-49bb-a92f-70bcf4a9017a",
-  "parentId": "6befd5ce-5363-44e6-b4ee-e6fa5966c591",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "f57d541c-2e70-4277-b8fb-f862cf48720c",
+  "parentId": "be4c9915-6bf2-4b46-b46b-faf7d9637488",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "hows_business",
   "auto": true,
   "contexts": [
@@ -37,6 +37,13 @@
           "speech": [
             "It hasn\u0027t been bad, nothing to complain about!"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

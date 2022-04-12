@@ -1,0 +1,119 @@
+[
+  {
+    "id": "cac4754f-95e0-4a0e-96d1-a058c2da4000",
+    "data": [
+      {
+        "text": "ne le fais pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a7d6d890-42da-4160-94ef-3827616dba41",
+    "data": [
+      {
+        "text": "sûrement pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "97dcb65e-8313-490a-b01c-916140c97206",
+    "data": [
+      {
+        "text": "je n\u0027en veux pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "4dc3a3ed-53dc-484b-8226-b8d557259d7f",
+    "data": [
+      {
+        "text": "ça ne m\u0027intéresse pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2a124fbf-c8b2-4d18-bd3e-c5fe7f7165bc",
+    "data": [
+      {
+        "text": "je ne crois pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "34233165-efae-4747-a4e9-ed98ebdac861",
+    "data": [
+      {
+        "text": "je ne suis pas d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "55588b3d-1b90-48c8-bf8a-adf3069d9924",
+    "data": [
+      {
+        "text": "non merci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "e931922a-4215-4b5c-972a-15425d5c0e00",
+    "data": [
+      {
+        "text": "non",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2de717ab-21a3-4e79-b092-348e5271a7be",
+    "data": [
+      {
+        "text": "pas vraiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "id": "ecc4c62c-9958-41ab-825d-e342fc30b314",
-  "parentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "d70fa55d-51f6-42d2-b192-52eb9d5af788",
+  "parentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "chatbot_opt_out",
   "auto": true,
   "contexts": [
@@ -22,6 +22,13 @@
           "speech": [
             "Oh no, I will be waiting here when you need me!"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

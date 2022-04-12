@@ -1,7 +1,7 @@
 {
-  "id": "2755b41b-659a-432d-accc-96009f57d8ad",
-  "parentId": "6befd5ce-5363-44e6-b4ee-e6fa5966c591",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "5e3f93c7-d726-4428-afef-6e990e5c81c4",
+  "parentId": "be4c9915-6bf2-4b46-b46b-faf7d9637488",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "waiters_pick",
   "auto": true,
   "contexts": [
@@ -22,6 +22,13 @@
           "speech": [
             "Ahh excellent question. My favorite would be the steak with a nice glass of wine!"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

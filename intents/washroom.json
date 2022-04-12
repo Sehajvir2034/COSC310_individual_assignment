@@ -1,7 +1,7 @@
 {
-  "id": "9975ca76-069c-4fed-9fb0-9faa13f4d23e",
-  "parentId": "6befd5ce-5363-44e6-b4ee-e6fa5966c591",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "60136f16-fbaf-4719-89f1-c45c8f44fe3c",
+  "parentId": "be4c9915-6bf2-4b46-b46b-faf7d9637488",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "washroom",
   "auto": true,
   "contexts": [
@@ -22,6 +22,13 @@
           "speech": [
             "Certainly. Down the hall and to the left."
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

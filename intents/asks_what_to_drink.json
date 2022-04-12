@@ -1,7 +1,7 @@
 {
-  "id": "a5f26565-1f40-4d7b-9c0a-675554079162",
-  "parentId": "00b1012d-a9c8-4a80-8f5d-e4d9b9aa70d0",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "25bf11da-b3b9-4213-8582-1af4b0ff7428",
+  "parentId": "880b067a-d250-47a9-9d3b-31d06974727b",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "asks_what_to_drink",
   "auto": true,
   "contexts": [
@@ -20,8 +20,15 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "We have soda, beer, wine, champagne."
+            "We\u0027ve got beer, wine, champagne and soda. What would you like to have today?"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

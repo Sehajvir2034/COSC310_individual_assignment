@@ -1,0 +1,47 @@
+{
+  "id": "74321ca4-14b2-42a0-97fc-788ad4619a27",
+  "parentId": "d90a7530-5b4e-444b-b71d-fe9211c97a60",
+  "rootParentId": "2f1c46ec-5bb9-4549-86df-bef80bb6561d",
+  "name": "order.drink.samecard",
+  "auto": true,
+  "contexts": [
+    "orderdrinkcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.samecard",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All set! Your transaction was approved!",
+            "All set! Thanks for dining with us!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

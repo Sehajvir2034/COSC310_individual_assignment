@@ -1,0 +1,68 @@
+{
+  "id": "9c94a5ad-2cf5-4e27-ac28-0e3b3c679f12",
+  "parentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "rootParentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "name": "order.last.paypal",
+  "auto": true,
+  "contexts": [
+    "orderlast-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderlast.orderlast.paypal",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Use this link to make the transaction."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "templateId": "3",
+              "contenttype": "300",
+              "payload": [
+                {
+                  "openLinkInNewTab": true,
+                  "url": "https://qe5964.sse.codesandbox.io/",
+                  "type": "link",
+                  "name": "paypal"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

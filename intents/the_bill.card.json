@@ -1,8 +1,8 @@
 {
-  "id": "f94d9650-e33d-4327-bde5-b40defe73f27",
-  "parentId": "27a4832a-d5e8-435e-b304-a31c9dcfdff5",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
-  "name": "cashorcredit",
+  "id": "ce71098a-18e2-4b9d-9241-733fbcd927a9",
+  "parentId": "3c437209-5ce9-481e-a9d3-d7d9e441dc70",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "name": "the_bill.card",
   "auto": true,
   "contexts": [
     "the_bill-followup"
@@ -13,7 +13,7 @@
       "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom-2.the_bill-custom",
       "affectedContexts": [
         {
-          "name": "cashorcredit-followup",
+          "name": "the_billcard-followup",
           "lifespan": 2
         }
       ],
@@ -25,8 +25,16 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Fantastic. Would you like a copy of your receipt?"
+            "Would you like a receipt",
+            "Would you like a receipt of the transaction?"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

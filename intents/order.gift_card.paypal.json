@@ -1,0 +1,68 @@
+{
+  "id": "be000501-ef19-44ec-97e3-c202cb32ea4d",
+  "parentId": "6398809a-849a-47d7-a0df-c656d6b40827",
+  "rootParentId": "6398809a-849a-47d7-a0df-c656d6b40827",
+  "name": "order.gift_card.paypal",
+  "auto": true,
+  "contexts": [
+    "ordergift_card-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ordergift_card.ordergift_card-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure thing, use this link to make the transaction"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "metadata": {
+              "templateId": "3",
+              "payload": [
+                {
+                  "openLinkInNewTab": true,
+                  "type": "link",
+                  "name": "paypal",
+                  "url": "https://qe5964.sse.codesandbox.io/"
+                }
+              ],
+              "contenttype": "300"
+            },
+            "platform": "kommunicate"
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

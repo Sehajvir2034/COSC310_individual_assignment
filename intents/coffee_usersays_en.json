@@ -1,0 +1,119 @@
+[
+  {
+    "id": "117fd048-6e10-4639-a45a-dcc585deea42",
+    "data": [
+      {
+        "text": "i need coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8362275e-9738-43a8-a015-d7a452648f9c",
+    "data": [
+      {
+        "text": "coffee shop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b266b284-7e9e-4957-8926-4b55a13ce6f3",
+    "data": [
+      {
+        "text": "coffee please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b3dfa1c4-275d-4a0a-8f66-e299f4d11f4b",
+    "data": [
+      {
+        "text": "id like the cafe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e571bdd0-fb4b-4107-ae9c-13a183127d91",
+    "data": [
+      {
+        "text": "visit the cafe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a6fa6fe-e661-47dc-9683-df719830b825",
+    "data": [
+      {
+        "text": "cafe",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2423f43d-d951-47d2-ace5-35d7aad05bef",
+    "data": [
+      {
+        "text": "visiting for coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da35aca-3bf3-4f02-8b52-59e211fca3dd",
+    "data": [
+      {
+        "text": "coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "879e57fc-afff-4710-88ed-514d70d74e8e",
+    "data": [
+      {
+        "text": "id like the coffee shop",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

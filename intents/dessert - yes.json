@@ -1,7 +1,7 @@
 {
-  "id": "d62cd058-d821-473c-8cc5-8201005652bf",
-  "parentId": "aa98ddfc-9aa4-4cef-beb4-e19a8682f7eb",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "779694c2-e826-4712-bee2-698c5a08b690",
+  "parentId": "3e9da046-7c35-4344-aaf4-21f73b9c98a6",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "dessert - yes",
   "auto": true,
   "contexts": [
@@ -27,6 +27,13 @@
           "speech": [
             "We are offering a simple vanilla ice cream, an in house baked cheesecake and a serving size fudge brownie."
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

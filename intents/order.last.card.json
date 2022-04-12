@@ -1,0 +1,53 @@
+{
+  "id": "ca5ae860-e00d-495b-8ff8-08c301ad1681",
+  "parentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "rootParentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "name": "order.last.card",
+  "auto": true,
+  "contexts": [
+    "orderlast-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderlast.orderlast-custom",
+      "affectedContexts": [
+        {
+          "name": "orderlastcard-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like to use the same card ?",
+            "Same card as before?",
+            "Do you want to use the same card you used earlier?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,7 +1,7 @@
 {
-  "id": "00b1012d-a9c8-4a80-8f5d-e4d9b9aa70d0",
-  "parentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "880b067a-d250-47a9-9d3b-31d06974727b",
+  "parentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "number_of_people",
   "auto": true,
   "contexts": [
@@ -42,6 +42,13 @@
           "speech": [
             "$number? Amazing, I’ll get you guys seated shortly. Follow me to the table. Okay, would you like anything to drink to start off?"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

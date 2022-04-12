@@ -1,16 +1,16 @@
 {
-  "id": "6cb2ed63-d0cf-445f-ad98-97a32ad0b409",
-  "parentId": "f94d9650-e33d-4327-bde5-b40defe73f27",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
-  "name": "cashorcredit - yes",
+  "id": "45327621-6f7b-434a-b002-c9443c29592b",
+  "parentId": "ca5ae860-e00d-495b-8ff8-08c301ad1681",
+  "rootParentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "name": "order.last.card -samecard- yes",
   "auto": true,
   "contexts": [
-    "cashorcredit-followup"
+    "orderlastcard-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom-2.the_bill-custom.cashorcredit-yes",
+      "action": "orderlast.orderlast-custom.orderlastcard-yes",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -20,8 +20,16 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "Thanks for coming. Have a nice day!"
+            "All set! Thanks for dining with us!",
+            "All set! Your transaction was approved!"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

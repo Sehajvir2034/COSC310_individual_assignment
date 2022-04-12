@@ -1,7 +1,7 @@
 {
-  "id": "c76ef603-fdf6-4e7a-b288-416df8c7e1b2",
-  "parentId": "b6ee5b1b-d1f8-4450-85d8-944a509800c7",
-  "rootParentId": "a030ef7e-efb3-4568-834b-5554c6d94c70",
+  "id": "e41f7dbd-15e1-4685-9a6b-a2f59f7515ef",
+  "parentId": "d74517e7-cc3c-493d-9851-59f28e4a8f5b",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
   "name": "lists_entrees",
   "auto": true,
   "contexts": [
@@ -20,8 +20,15 @@
           "textToSpeech": "",
           "lang": "en",
           "speech": [
-            "The options are poke bowl, tomato gnocchi, tandoori chicken, and the house salad."
+            "We\u0027ve got Poke Bowl, Tomato Gnocchi, Tandoori Chicken and the House Salad"
           ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
           "condition": ""
         }
       ],

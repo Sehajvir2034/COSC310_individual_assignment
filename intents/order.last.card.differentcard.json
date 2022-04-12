@@ -1,0 +1,75 @@
+{
+  "id": "b1f96949-e1fc-406f-b2d0-efbfc2b9122d",
+  "parentId": "ca5ae860-e00d-495b-8ff8-08c301ad1681",
+  "rootParentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "name": "order.last.card.differentcard",
+  "auto": true,
+  "contexts": [
+    "orderlastcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderlast.orderlast-custom.orderlastcard-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0b34642a-188c-42c6-8d33-e090cb096c3a",
+          "name": "card-number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$card-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What would be the new card digits?"
+            },
+            {
+              "lang": "en",
+              "value": "Please enter the new card"
+            },
+            {
+              "lang": "en",
+              "value": "What is the new number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You new payment method was accepted. Thanks for dining with us!",
+            "All set, your new payment method has been added to the system. Thanks for dining with us!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

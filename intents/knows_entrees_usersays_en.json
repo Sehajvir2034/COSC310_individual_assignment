@@ -1,5 +1,81 @@
 [
   {
+    "id": "d07cebff-1200-4c66-a4a6-2497f9e70439",
+    "data": [
+      {
+        "text": "i\u0027d like the ",
+        "userDefined": false
+      },
+      {
+        "text": "poke",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c86d9fef-4a8c-4cef-9578-4412cac1ddab",
+    "data": [
+      {
+        "text": "i\u0027ll try the ",
+        "userDefined": false
+      },
+      {
+        "text": "tomato",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "324ce3bf-3dff-491d-a1cd-696349d31a9d",
+    "data": [
+      {
+        "text": "just a ",
+        "userDefined": false
+      },
+      {
+        "text": "bowl",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "866f43fa-1232-48d8-a4e6-c40830439de5",
+    "data": [
+      {
+        "text": "can i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "bowl",
+        "meta": "@entrees",
+        "alias": "entrees",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
     "id": "87f85477-900d-425f-b1ec-f71ee6c799ee",
     "data": [
       {
