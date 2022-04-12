@@ -1,0 +1,46 @@
+{
+  "id": "5f673bf7-5c2b-42e8-bd30-8e08a46d6d91",
+  "parentId": "7cd80069-2672-4951-a1b1-ea004f81f8b9",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "name": "bad_food - yes",
+  "auto": true,
+  "contexts": [
+    "bad_food-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2.knows_entrees-custom.knows_side_sauce-custom-3.bad_food-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Certainly. We\u0027ll get that right out for you."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

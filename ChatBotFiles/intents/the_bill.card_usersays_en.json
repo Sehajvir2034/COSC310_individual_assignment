@@ -1,0 +1,106 @@
+[
+  {
+    "id": "73dbdb97-7feb-471d-832f-f4d58aae48b5",
+    "data": [
+      {
+        "text": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "185e86c6-d411-45aa-a757-ae909b1a2fa0",
+    "data": [
+      {
+        "text": "i\u0027ll use my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1358d79f-5605-4743-a212-1a9b2924020d",
+    "data": [
+      {
+        "text": "debit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "867f1e4f-a232-40fd-96b7-9d9e09d0fb25",
+    "data": [
+      {
+        "text": "debit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9247677-0b1a-4ea4-8fea-43404d5a15ca",
+    "data": [
+      {
+        "text": "credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65046280-38f1-4f9f-bc56-40077cbbcb5e",
+    "data": [
+      {
+        "text": "i want to use my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fd88e0a-b7f8-45be-b634-0a514ee6da0f",
+    "data": [
+      {
+        "text": "card please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00f08573-b4f6-4df5-8d8c-a4a758bbd581",
+    "data": [
+      {
+        "text": "credit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

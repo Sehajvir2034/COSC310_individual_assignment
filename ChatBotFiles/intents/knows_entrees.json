@@ -1,0 +1,59 @@
+{
+  "id": "186529b3-f907-47ca-b1a7-2c2e2e9dd747",
+  "parentId": "d74517e7-cc3c-493d-9851-59f28e4a8f5b",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "name": "knows_entrees",
+  "auto": true,
+  "contexts": [
+    "knows_starters-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom.knows_starters-custom-2",
+      "affectedContexts": [
+        {
+          "name": "knows_entrees-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "03ce230f-e504-4a6d-9ea6-ade9954ff7b7",
+          "name": "entrees",
+          "required": false,
+          "dataType": "@entrees",
+          "value": "$entrees",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay. What sauce would you like on the side?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

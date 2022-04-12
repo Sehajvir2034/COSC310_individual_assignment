@@ -1,0 +1,88 @@
+{
+  "id": "8e667b96-20c4-44a8-abfe-2413c1af31d7",
+  "parentId": "f732b8c6-f2c1-4acf-a3d0-fa71cd83b8b0",
+  "rootParentId": "6398809a-849a-47d7-a0df-c656d6b40827",
+  "name": "order.gift_card.card -differentcard",
+  "auto": true,
+  "contexts": [
+    "ordergift_cardcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ordergift_card.ordergift_card-custom.ordergift_cardcard-no",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11a00185-83b6-4bda-9ce8-b8f2c1919775",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "1625f9ed-8dbc-4fe0-8ab2-703406836b55",
+          "name": "card-number",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$card-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the new card number?"
+            },
+            {
+              "lang": "en",
+              "value": "What would be the new card digits?"
+            },
+            {
+              "lang": "en",
+              "value": "Please enter the new card"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "You new payment method was accepted. Thanks for dining with us!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

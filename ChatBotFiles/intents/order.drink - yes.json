@@ -1,0 +1,65 @@
+{
+  "id": "73edd9a4-1aa5-4c4d-a49a-fd42bd40aba4",
+  "parentId": "2f1c46ec-5bb9-4549-86df-bef80bb6561d",
+  "rootParentId": "2f1c46ec-5bb9-4549-86df-bef80bb6561d",
+  "name": "order.drink - yes",
+  "auto": true,
+  "contexts": [
+    "orderdrink-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.confirm",
+      "affectedContexts": [
+        {
+          "name": "orderdrink-yes-followup",
+          "lifespan": 2,
+          "parameters": {}
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Yes"
+            },
+            {
+              "title": "No"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How would you like to pay?",
+            "What payment method would you like to use?"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

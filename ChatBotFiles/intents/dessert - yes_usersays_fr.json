@@ -1,0 +1,119 @@
+[
+  {
+    "id": "6cca7b15-8e21-4f76-91f1-96d4c9730046",
+    "data": [
+      {
+        "text": "confirmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "2a1bc260-b8fa-4392-98d7-632be2b5039e",
+    "data": [
+      {
+        "text": "fais-le",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "68174c91-bab7-4729-ba19-b6ceb6495b93",
+    "data": [
+      {
+        "text": "bien sûr",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "d4d59361-dfce-4e98-98a6-12c02ea96612",
+    "data": [
+      {
+        "text": "oui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "a1952caf-23b4-41a3-8324-a9a976a569a1",
+    "data": [
+      {
+        "text": "ça me va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9b07b277-8375-4326-90e4-c78ee86b5e1e",
+    "data": [
+      {
+        "text": "d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "81bd8df6-2835-4694-8f4d-0c6da8a7259d",
+    "data": [
+      {
+        "text": "je suis d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "9cab8a3a-8f9e-4561-af26-b9802c624e5f",
+    "data": [
+      {
+        "text": "exactement",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "fr",
+    "updated": 0
+  },
+  {
+    "id": "8dc16b28-efc7-4ce7-89e4-840d29ffc676",
+    "data": [
+      {
+        "text": "c\u0027est correct",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "fr",
+    "updated": 0
+  }
+]

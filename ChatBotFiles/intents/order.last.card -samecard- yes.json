@@ -1,0 +1,47 @@
+{
+  "id": "45327621-6f7b-434a-b002-c9443c29592b",
+  "parentId": "ca5ae860-e00d-495b-8ff8-08c301ad1681",
+  "rootParentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "name": "order.last.card -samecard- yes",
+  "auto": true,
+  "contexts": [
+    "orderlastcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderlast.orderlast-custom.orderlastcard-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All set! Thanks for dining with us!",
+            "All set! Your transaction was approved!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

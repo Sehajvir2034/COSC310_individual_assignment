@@ -1,0 +1,66 @@
+{
+  "id": "d74517e7-cc3c-493d-9851-59f28e4a8f5b",
+  "parentId": "f5fd08f7-be7d-4cf1-b2bd-d7d2a37a9440",
+  "rootParentId": "d6039415-82fe-4a00-a013-fd9ddac1ca2a",
+  "name": "knows_starters",
+  "auto": true,
+  "contexts": [
+    "knows_what_to_drink-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom.number_of_people-custom.knows_what_to_drink-custom",
+      "affectedContexts": [
+        {
+          "name": "knows_starters-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "efab402b-8a73-47da-9205-3dafe4bfa1fe",
+          "name": "starters",
+          "required": false,
+          "dataType": "@starters",
+          "value": "$starters",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay I will get that ready for you. Here are your $starters. What would you like as an entree?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

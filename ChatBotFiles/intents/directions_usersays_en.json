@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d13ab02e-9419-4a03-a2a8-e5dd312809fd",
+    "data": [
+      {
+        "text": "can i get the directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cdd7780b-4acc-4e40-ba6d-cb6fbd7a13d1",
+    "data": [
+      {
+        "text": "directions please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d66e1a70-a45c-4eec-ad95-b02093ff65b9",
+    "data": [
+      {
+        "text": "directions to the restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62fa564e-cfd6-4c85-b098-c5aac8b1c1bc",
+    "data": [
+      {
+        "text": "directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef070631-1040-49eb-a894-b2b4d166b32a",
+    "data": [
+      {
+        "text": "can i have the directions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

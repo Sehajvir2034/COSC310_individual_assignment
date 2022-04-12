@@ -1,0 +1,119 @@
+[
+  {
+    "id": "4b34edff-c66d-40c2-90a1-2cec7d9392b4",
+    "data": [
+      {
+        "text": "i\u0027ll use my credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66e2d155-8888-4a15-87ac-f94fd1b1b08c",
+    "data": [
+      {
+        "text": "i\u0027ll use my debit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0acf87ba-896f-42cc-aea5-f824c236357b",
+    "data": [
+      {
+        "text": "card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d65b9567-22fc-4828-b524-2326c02e661a",
+    "data": [
+      {
+        "text": "card please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9988416e-0cf1-4fcf-988e-4b66f3a37b7a",
+    "data": [
+      {
+        "text": "credit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b8fb7bb-8344-4412-a941-962cca4f3921",
+    "data": [
+      {
+        "text": "debit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f36d88f-d599-4cd3-b32a-10b877346975",
+    "data": [
+      {
+        "text": "credit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1a4850dc-0035-434b-bc41-f1d36b79f5aa",
+    "data": [
+      {
+        "text": "debit card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "935c065b-43da-43db-9b46-5e85781e8c4f",
+    "data": [
+      {
+        "text": "I want to use my card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

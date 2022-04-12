@@ -1,0 +1,53 @@
+{
+  "id": "d90a7530-5b4e-444b-b71d-fe9211c97a60",
+  "parentId": "73edd9a4-1aa5-4c4d-a49a-fd42bd40aba4",
+  "rootParentId": "2f1c46ec-5bb9-4549-86df-bef80bb6561d",
+  "name": "order.drink.card",
+  "auto": true,
+  "contexts": [
+    "orderdrink-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.confirm.orderdrink-yes-custom",
+      "affectedContexts": [
+        {
+          "name": "orderdrinkcard-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Would you like to use the same card ?",
+            "Same card as before?",
+            "Do you want to use the same card you used earlier?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

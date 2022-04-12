@@ -1,0 +1,81 @@
+{
+  "id": "ba71ae7e-584e-4251-b7a3-954ca53f07be",
+  "parentId": "73edd9a4-1aa5-4c4d-a49a-fd42bd40aba4",
+  "rootParentId": "2f1c46ec-5bb9-4549-86df-bef80bb6561d",
+  "name": "order.drink.paypal",
+  "auto": true,
+  "contexts": [
+    "orderdrink-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.confirm.paypal",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "destinationName": "paypal link",
+          "url": "https://pannusehajvir.wixsite.com/my-site",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Paypal it is!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "contenttype": "300",
+              "templateId": "3",
+              "payload": [
+                {
+                  "name": "paypal",
+                  "url": "https://qe5964.sse.codesandbox.io/",
+                  "openLinkInNewTab": true,
+                  "type": "link"
+                }
+              ]
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

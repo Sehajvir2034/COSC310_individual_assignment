@@ -1,0 +1,41 @@
+[
+  {
+    "value": "poke bowl",
+    "synonyms": [
+      "poke bowl",
+      "bowl",
+      "Poke bowl",
+      "Poke Bowl",
+      "Poke"
+    ]
+  },
+  {
+    "value": "tomato gnocchi",
+    "synonyms": [
+      "tomato gnocchi",
+      "gnocchi",
+      "tomato"
+    ]
+  },
+  {
+    "value": "tandoori chicken",
+    "synonyms": [
+      "tandoori chicken",
+      "tandoori",
+      "chicken"
+    ]
+  },
+  {
+    "value": "house salad",
+    "synonyms": [
+      "house salad",
+      "salad"
+    ]
+  },
+  {
+    "value": "steak",
+    "synonyms": [
+      "steak"
+    ]
+  }
+]

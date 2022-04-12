@@ -1,0 +1,106 @@
+[
+  {
+    "id": "64268788-43ee-41e1-9fa2-d317e9324f0a",
+    "data": [
+      {
+        "text": "can i get the bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d7eb88b-2160-4600-9b07-dc861d6780a9",
+    "data": [
+      {
+        "text": "can i get the cheque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5cb746e-b149-49c6-a740-8a666e999d73",
+    "data": [
+      {
+        "text": "can i have the cheque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d8c4eea-c6d5-4226-8e93-0484700b4174",
+    "data": [
+      {
+        "text": "can i have the bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "080b9b8a-35a2-4a83-95d3-4f8934e55203",
+    "data": [
+      {
+        "text": "cheque",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa7934c9-e276-4498-8607-fd7bd5b4f8ca",
+    "data": [
+      {
+        "text": "bill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5df54170-0f4b-49f3-ba66-6f2b5e99ffea",
+    "data": [
+      {
+        "text": "the bill please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1d1f981-edce-4f6e-82df-ab7d40814220",
+    "data": [
+      {
+        "text": "can i get the check",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

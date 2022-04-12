@@ -1,0 +1,61 @@
+{
+  "id": "d9ea1c6f-8d76-40bf-94e3-7dcc4cf75a33",
+  "parentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "rootParentId": "87a09d7e-26eb-4d23-9fef-b547f179c858",
+  "name": "order.last.cash",
+  "auto": true,
+  "contexts": [
+    "orderlast-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderlast.orderlast.cash",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f274a92b-d377-45f5-9308-bab7e2f3b932",
+          "name": "currency-name",
+          "required": false,
+          "dataType": "@sys.currency-name",
+          "value": "$currency-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All set! Thanks for dining with us!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

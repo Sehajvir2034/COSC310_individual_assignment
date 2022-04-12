@@ -1,0 +1,81 @@
+[
+  {
+    "id": "68860ccc-7a1d-4589-a0c1-57cac14b8649",
+    "data": [
+      {
+        "text": "using ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ddaea44-7b66-4f5d-b0d4-2bd45bafa496",
+    "data": [
+      {
+        "text": "i\u0027m paying with ",
+        "userDefined": false
+      },
+      {
+        "text": "cash",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be0325a3-807f-432e-a711-966e384a91c9",
+    "data": [
+      {
+        "text": "cash",
+        "meta": "@sys.currency-name",
+        "alias": "currency-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "34c6ffbf-4541-4e1b-90af-0c9bc7f76c0f",
+    "data": [
+      {
+        "text": "i will use cash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e79628c0-851c-41e9-9c11-b4d3c0a233d7",
+    "data": [
+      {
+        "text": "cash please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

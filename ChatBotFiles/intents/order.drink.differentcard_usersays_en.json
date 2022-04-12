@@ -1,0 +1,257 @@
+[
+  {
+    "id": "fd8de197-f76d-4345-bc16-d77ed18839b7",
+    "data": [
+      {
+        "text": "new card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ed019b5-f754-4207-a57d-d38c4f993f28",
+    "data": [
+      {
+        "text": "new ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d70acb08-87f2-4c88-bc00-81bd69a2872a",
+    "data": [
+      {
+        "text": "new card number is ",
+        "userDefined": false
+      },
+      {
+        "text": "123412341234",
+        "meta": "@sys.number",
+        "alias": "cardNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b53f7b6a-0abe-4303-98f4-17864f10b5be",
+    "data": [
+      {
+        "text": "its ",
+        "userDefined": false
+      },
+      {
+        "text": "123412341234",
+        "meta": "@sys.number",
+        "alias": "cardNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eca2a079-31e5-4a3d-9e77-f1d0fac8e32d",
+    "data": [
+      {
+        "text": "yeah its ",
+        "userDefined": false
+      },
+      {
+        "text": "123412341234",
+        "meta": "@sys.number",
+        "alias": "cardNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8859e340-fc90-484b-960a-47be7209e7a4",
+    "data": [
+      {
+        "text": "sure its ",
+        "userDefined": false
+      },
+      {
+        "text": "111111111111",
+        "meta": "@sys.number",
+        "alias": "cardNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d466c46-8479-47f9-92b3-3dc1dad5b1f0",
+    "data": [
+      {
+        "text": "not interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f4c524a-ea65-4c14-ae96-57f9531bcc73",
+    "data": [
+      {
+        "text": "i don\u0027t want that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a7ccc07-c739-4658-9213-94167c45e263",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "91a58736-ccf9-400f-80ea-d3500183796a",
+    "data": [
+      {
+        "text": "another one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acc0dc19-322f-4a55-9e97-2b53b64c65d5",
+    "data": [
+      {
+        "text": "i disagree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12e6d8d8-5916-4df7-96e3-a75cc0557eef",
+    "data": [
+      {
+        "text": "different",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbb74a1a-07e9-4c4b-aeca-106b626ad837",
+    "data": [
+      {
+        "text": "definitely not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "950dbc39-af14-4473-bdec-2edf2c98fd45",
+    "data": [
+      {
+        "text": "thanks but no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ad17d9f-ec73-4b94-950d-5d8291966e51",
+    "data": [
+      {
+        "text": "don\u0027t do it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8285221-63c8-443a-a1b8-457371e99ed2",
+    "data": [
+      {
+        "text": "i don\u0027t think so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb827f84-4e54-4d58-b736-5657c5d94179",
+    "data": [
+      {
+        "text": "no this one ",
+        "userDefined": false
+      },
+      {
+        "text": "111111111111",
+        "meta": "@sys.number",
+        "alias": "cardNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "7203ab5b-08e6-4f9f-b4be-076abed43375",
+  "parentId": "f732b8c6-f2c1-4acf-a3d0-fa71cd83b8b0",
+  "rootParentId": "6398809a-849a-47d7-a0df-c656d6b40827",
+  "name": "order.gift_card.card -samecard- yes",
+  "auto": true,
+  "contexts": [
+    "ordergift_cardcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ordergift_card.ordergift_card-custom.ordergift_cardcard-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Okay! All set"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

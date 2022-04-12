@@ -1,0 +1,54 @@
+{
+  "id": "cf0d1b9f-a25f-4a72-979e-e09fe56df83f",
+  "name": "rich-messeges-link-buttons",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "platform": "kommunicate",
+            "metadata": {
+              "payload": [
+                {
+                  "url": "https://qe5964.sse.codesandbox.io/",
+                  "type": "link",
+                  "openLinkInNewTab": true,
+                  "name": "paypal"
+                }
+              ],
+              "contenttype": "300",
+              "templateId": "3"
+            }
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

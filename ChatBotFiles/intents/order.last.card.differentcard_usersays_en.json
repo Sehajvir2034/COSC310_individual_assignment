@@ -1,0 +1,139 @@
+[
+  {
+    "id": "4071dc72-140f-42e4-89c6-3f460e49866b",
+    "data": [
+      {
+        "text": "new card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb943746-b4ff-470f-8800-2a14e250aee5",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f7ec2da-0f63-4142-a680-829fdfb86055",
+    "data": [
+      {
+        "text": "another one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80d3784e-610c-43a2-a7b7-dae0d7824066",
+    "data": [
+      {
+        "text": "another card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13d29508-e933-44ca-ba48-d865771e430d",
+    "data": [
+      {
+        "text": "123412341234",
+        "meta": "@sys.number",
+        "alias": "card-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e36073fc-2141-4e80-9521-cf1147f40e32",
+    "data": [
+      {
+        "text": "sure its ",
+        "userDefined": false
+      },
+      {
+        "text": "123412341234",
+        "meta": "@sys.number",
+        "alias": "card-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e1e90fb6-23b5-4092-adc7-04db383ae496",
+    "data": [
+      {
+        "text": "its ",
+        "userDefined": false
+      },
+      {
+        "text": "123412341234",
+        "meta": "@sys.number",
+        "alias": "card-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcad4e84-3b81-49b5-8f3d-fa2ee4b6b111",
+    "data": [
+      {
+        "text": "new card number is ",
+        "userDefined": false
+      },
+      {
+        "text": "123412341234",
+        "meta": "@sys.number",
+        "alias": "card-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa2a8675-92d5-4ec0-bb0a-ba7c42bffa72",
+    "data": [
+      {
+        "text": "new one",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

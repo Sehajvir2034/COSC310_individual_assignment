@@ -1,0 +1,75 @@
+{
+  "id": "adc4191b-96cd-459a-99bf-ec27e56e2574",
+  "parentId": "d90a7530-5b4e-444b-b71d-fe9211c97a60",
+  "rootParentId": "2f1c46ec-5bb9-4549-86df-bef80bb6561d",
+  "name": "order.drink.differentcard",
+  "auto": true,
+  "contexts": [
+    "orderdrinkcard-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.drink.differentcard",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "40fac180-e750-4b9d-aa47-70870e611246",
+          "name": "cardNumber",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$cardNumber",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is the new number?"
+            },
+            {
+              "lang": "en",
+              "value": "What would be the new card digits?"
+            },
+            {
+              "lang": "en",
+              "value": "Please enter the new card"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "All set, your new payment method has been added to the system. Thanks for dining with us!",
+            "You new payment method was accepted. Thanks for dining with us!"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "fr",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
