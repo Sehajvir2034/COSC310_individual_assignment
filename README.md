@@ -3,6 +3,10 @@
 
 # **COSC 310 - Individual Project** <img src="https://media3.giphy.com/media/S60CrN9iMxFlyp7uM8/giphy.gif?cid=ecf05e4704yigthbkvnneq2y40zp98jkeohqhlc8vuqhhpgk&rid=giphy.gif&ct=g" width="45px">
 
+## 🔗 Link to use the chatbot
+
+<https://pannusehajvir.wixsite.com/my-site>
+
 ## 🔗 Link to my Github Repository
 
 <https://github.com/Sehajvir2034/COSC310_individual_assignment>
