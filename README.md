@@ -43,6 +43,8 @@
 - Google Maps API Documentation: <https://developers.google.com/maps/documentation>
 - Google Directions Documentation: <https://developers.google.com/maps/documentation/directions/overview>
 
+## Previous readme content
+
 ## 📗 Our Chatbot is organized into Intents and Entities
 
 Intents are descriptors that allow the chatbot to determine how to respond to your prompt. Intents are made up of a few sample phrases that a user might say to the chatbot, and a response delegated for those sample phrases. Ex: if you wanted to pay the bill at a restaurant you might say, “Can I have the bill”, “Check please”, or “We’re ready to leave”. A human might interpret all those things as the same but the chatbot needs to be taught to recognize that all of these phrases result in requiring the bill. Intents are the pointers that tell the chatbot where to carry the conversation based on inputs coming from the user.
