@@ -18,14 +18,26 @@
 - Integrated our Dialogflow chatbot with Kommunicate to help our chatbot provide hyperlinks and buttons to the user which was not possible earlier with Dialogflow chatbot interface.
 - Using Kommunicate the chatbot delivers the paypal transaction link to the user. The user can use the link to get to the transaction window where they can login to their paypal account(in our case the sandbox account) and make the transaction.
 
-- Paypal Documentation: <https://developer.paypal.com/sdk/js/reference/>
-- Kommunicate Documentation: <https://docs.kommunicate.io>
-- Sandbox Documentation: <https://developer.paypal.com/sdk/js/reference/>
-- Sandbox Account: <https://qe5964.sse.codesandbox.io/>
-
 ### 2. **Google Street View Image API**
 
-- Integrated the Google Street view API into
+- Integrated the Google Street view API into the website hosting the chatbot which allows the user to look around the restaurant and get the idea of the directions.
+- Created a API key in the Google Cloud Platform to take additional help of the Geocodinng API, Maps Javascript API and Google Clouds APIs to host the Street view into the website html.
+- When the user asks the chatbot for a street view the chat bot guides the user to the section of the website which holds the Google Street View Image. The user can interact with the Google Street view with the mouse to look around the street where our restaurant is located.
+
+### 3. **Google Maps/Google Directions API**
+
+- Similar to the Google Street View Image API we integrated the Google Maps and Google Directions API into the GUI which helps the user to locate the restaurant and get directions from their location to the restaurant.
+- When the user asks the chabot for directions the chatbot guides them to the Google Maps hosted in the website.
+- The user can see the location marker of the restaurant and click on the directions which will take them to google maps website and the user can get the directions to the restaurant.
+
+## Documentation
+
+- Paypal Documentation: <https://developer.paypal.com/sdk/js/reference/>
+- Kommunicate Documentation: <https://docs.kommunicate.io>
+- Sandbox Documentation: <https://codesandbox.io>
+- Sandbox Account: <https://qe5964.sse.codesandbox.io/>
+- Google Maps API Documentation: <https://developers.google.com/maps/documentation>
+- Google Directions Documentation: <https://developers.google.com/maps/documentation/directions/overview>
 
 ## 📗 Our Chatbot is organized into Intents and Entities
 
