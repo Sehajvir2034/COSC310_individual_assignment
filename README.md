@@ -7,7 +7,25 @@
 
 <https://github.com/Sehajvir2034/COSC310_individual_assignment>
 
-This is the Assignment 3 for Group 23 in COSC 310. The assignment's purpose is to create a simple chat agent. Our agent is a restaurant server that simulates ordering food at a restaurant.
+### This is the individual project in COSC 310. The assignment's purpose is to take the output from the Group assignment 3 and continue development on the chatbot and add new features. Our chat agent is a Restaurant server as well as a Coffee Barista that simulates ordering Food and Drinks at a restaurant and Coffee Shop
+
+## 📙 New APIs Incorporated  in the Program
+
+### 1. **Paypal API (sandbox)**
+
+- Integrated the Paypal API with the the revised restaurant chatbot which facilitates the user with an additional method of payment for their Restaurant Bill, Barista Bill and Gift Cards Payment.
+- If the user decides to pay their bill using paypal, the chatbot provides a link to facilitate the transaction which further uses the Paypal Sandbox API to create a purchasing window.
+- Integrated our Dialogflow chatbot with Kommunicate to help our chatbot provide hyperlinks and buttons to the user which was not possible earlier with Dialogflow chatbot interface.
+- Using Kommunicate the chatbot delivers the paypal transaction link to the user. The user can use the link to get to the transaction window where they can login to their paypal account(in our case the sandbox account) and make the transaction.
+
+- Paypal Documentation: <https://developer.paypal.com/sdk/js/reference/>
+- Kommunicate Documentation: <https://docs.kommunicate.io>
+- Sandbox Documentation: <https://developer.paypal.com/sdk/js/reference/>
+- Sandbox Account: <https://qe5964.sse.codesandbox.io/>
+
+### 2. **Google Street View Image API**
+
+- Integrated the Google Street view API into
 
 ## 📗 Our Chatbot is organized into Intents and Entities
 
@@ -17,16 +35,16 @@ Entities are lists or categories of miscellaneous objects or categories that the
 
 ## 📕 Features
 
-* New and improved GUI
-* Extra topic added
-* Voice-to-speech ability
-* Detect and handle spelling mistakes, using machine learning from Google DialogFlow
-* Extra responses created to help the flow of conversation
-* More responses created for extraneous inputs
-* Entity matching Toolkit applied
-* Synonym matching Toolkit applied
-* Second language (French) Toolkit applied
-* Connected to Botium Unit Testing via Google Cloud for unit testing conversation
+- New and improved GUI
+- Extra topic added
+- Voice-to-speech ability
+- Detect and handle spelling mistakes, using machine learning from Google DialogFlow
+- Extra responses created to help the flow of conversation
+- More responses created for extraneous inputs
+- Entity matching Toolkit applied
+- Synonym matching Toolkit applied
+- Second language (French) Toolkit applied
+- Connected to Botium Unit Testing via Google Cloud for unit testing conversation
 
 ## 📘 GUI
 
@@ -66,22 +84,22 @@ The results from the test are in the form of graphs, XML, and CSV. Information s
 
 ## 📕 Features that could be extracted with others as API
 
-* The use of entities to easily and accurately detect user inputs for reuse
-* The use of a Second Language Toolkit to adapt to French speaking users
-* The use of Botium Unit Testing to test conversations
-* Voice-to-speech ability
-* Use of Machine Learning for spelling from Google DialogFlow
+- The use of entities to easily and accurately detect user inputs for reuse
+- The use of a Second Language Toolkit to adapt to French speaking users
+- The use of Botium Unit Testing to test conversations
+- Voice-to-speech ability
+- Use of Machine Learning for spelling from Google DialogFlow
 
 ## 📘 DFDs
 
-* **Level 0 DFD**
+- **Level 0 DFD**
 
 ![](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/DFD_Level_0.jpg)
 
 This diagram explains the data flow between the 0 level components of our bot. The data received from the user is delivered to the Chatbot server, and
 the responses are received from the database, further the server provides the responses to the user.
 
-* **Level 1 DFD**
+- **Level 1 DFD**
 
 ![](https://github.com/COSC310-Team-23/assignment2/blob/main/assets/DFD_Level_1.jpg)
 
@@ -92,6 +110,6 @@ The bot will know which action to use based on matching the input to a response 
 
 ## 📗 Limitations of our ChatBot
 
-* The chatbot is only able to support single text inputs. The chatbot cannot handle more complex input like images, hyperlinks, or several sequential text inputs.
+- The chatbot is only able to support single text inputs. The chatbot cannot handle more complex input like images, hyperlinks, or several sequential text inputs.
 
-* There are still some inputs that the chatbot could get confused by, for example inputting the same thing over and over again could make the bot lose its place in the conversation.
+- There are still some inputs that the chatbot could get confused by, for example inputting the same thing over and over again could make the bot lose its place in the conversation.
